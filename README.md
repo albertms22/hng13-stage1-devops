@@ -169,7 +169,7 @@ The script is designed to be safely re-run:
 
 ## Testing
 This script was tested with a sample Node.js application:
-https://github.com/albertms22/hng13-stage2-app
+https://github.com/albertms22/hng13-stage1-app
 
 ## Author
 Created for HNG13 DevOps Internship - Stage 1
