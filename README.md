@@ -167,6 +167,10 @@ The script is designed to be safely re-run:
 - Ubuntu 20.04 LTS
 - Debian 11
 
+## Testing
+This script was tested with a sample Node.js application:
+https://github.com/albertms22/hng13-stage2-app
+
 ## Author
 Created for HNG13 DevOps Internship - Stage 1
 
